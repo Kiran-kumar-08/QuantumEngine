@@ -11,3 +11,4 @@ yfinance
 numpy
 pandas
 scipy
+gunicorn
